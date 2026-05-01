@@ -1,7 +1,10 @@
 # 🍕 Fast React Pizza Co
-.
 
 A modern, responsive pizza restaurant menu application built with React. This project showcases component-based architecture with dynamic pizza listings, real-time operational status, and an intuitive ordering interface.
+
+<hr/>
+
+🌐**Demo (Live Preview):** <a href="https://ahmed-maher77.github.io/pizza-menu__react-app/" target="_blank" title="Live Demo of Fast React Pizza Co">ahmed-maher77.github.io/pizza-menu\_\_react-app</a>
 
 <hr/>
 
@@ -17,7 +20,9 @@ A modern, responsive pizza restaurant menu application built with React. This pr
 
 ## 👀 Website Preview:
 
+<a href="https://ahmed-maher77.github.io/pizza-menu__react-app/" target="_blank" title="Live Demo of Fast React Pizza Co">
 <img src="https://github.com/user-attachments/assets/d16b4019-dd3b-4246-90b3-0c527e92ba2b" alt="website preview - Demo - UI Mockup" width="400">
+</a>
 
 <hr/>
 

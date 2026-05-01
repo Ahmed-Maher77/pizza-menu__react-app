@@ -1,4 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
-Sitemap: https://your-domain.com/sitemap.xml
+Sitemap: https://ahmed-maher77.github.io/pizza-menu__react-app/sitemap.xml
