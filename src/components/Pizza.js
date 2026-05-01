@@ -1,6 +1,4 @@
 export default function Pizza({ pizzaObj }) {
-    console.log(pizzaObj);
-
     return (
         <li className={`pizza ${pizzaObj.soldOut ? "sold-out" : ""}`}>
             <img src={pizzaObj.photoName} alt={pizzaObj.name} />
