@@ -5,6 +5,7 @@ A modern, responsive pizza restaurant menu application built with React. This pr
 <hr/>
 
 💻 **Used Technologies:** <br>
+
 - **Frontend:** React 18, JavaScript (ES6+), CSS3
 - **Development Tools:** npm, Webpack (via Create React App)
 - **Styling:** CSS3 with responsive design
@@ -14,6 +15,7 @@ A modern, responsive pizza restaurant menu application built with React. This pr
 <hr/>
 
 ## 👀 Website Preview:
+
 <img src="uploaded-img-on-github-readme" alt="website preview - Demo - UI Mockup" width="400">
 
 <hr/>
@@ -67,23 +69,28 @@ A modern, responsive pizza restaurant menu application built with React. This pr
 To download and run this project locally:
 
 **1. Clone the Repository:**
+
 ```bash
 git clone https://github.com/your-username/pizza-menu-app.git
 cd pizza-menu-app
 ```
 
 **2. Install Dependencies:**
+
 ```bash
 npm install
 ```
 
 **3. Start the Development Server:**
+
 ```bash
 npm start
 ```
+
 The app will open automatically at `http://localhost:3000`
 
 **4. Build for Production:**
+
 ```bash
 npm run build
 ```
@@ -92,14 +99,14 @@ npm run build
 
 ## 🎨 Component Overview:
 
-| Component | Purpose |
-|-----------|---------|
-| **App** | Main container component |
-| **Header** | Displays restaurant name and branding |
-| **Menu** | Renders pizza list with conditional messaging |
-| **Pizza** | Individual pizza card with image, details, and pricing |
-| **Footer** | Shows operating hours and order status |
-| **Order** | Call-to-action button when restaurant is open |
+| Component  | Purpose                                                |
+| ---------- | ------------------------------------------------------ |
+| **App**    | Main container component                               |
+| **Header** | Displays restaurant name and branding                  |
+| **Menu**   | Renders pizza list with conditional messaging          |
+| **Pizza**  | Individual pizza card with image, details, and pricing |
+| **Footer** | Shows operating hours and order status                 |
+| **Order**  | Call-to-action button when restaurant is open          |
 
 <hr/>
 
