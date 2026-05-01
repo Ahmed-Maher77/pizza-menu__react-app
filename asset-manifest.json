@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pizza-menu__react-app/static/css/main.7a1373ac.css",
+    "main.js": "/pizza-menu__react-app/static/js/main.c8136ce4.js",
+    "index.html": "/pizza-menu__react-app/index.html",
+    "main.7a1373ac.css.map": "/pizza-menu__react-app/static/css/main.7a1373ac.css.map",
+    "main.c8136ce4.js.map": "/pizza-menu__react-app/static/js/main.c8136ce4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a1373ac.css",
+    "static/js/main.c8136ce4.js"
+  ]
+}
