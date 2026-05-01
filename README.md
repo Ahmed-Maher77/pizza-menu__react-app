@@ -72,8 +72,8 @@ To download and run this project locally:
 **1. Clone the Repository:**
 
 ```bash
-git clone https://github.com/your-username/pizza-menu-app.git
-cd pizza-menu-app
+git clone https://github.com/Ahmed-Maher77/pizza-menu__react-app.git
+cd pizza-menu__react-app
 ```
 
 **2. Install Dependencies:**
