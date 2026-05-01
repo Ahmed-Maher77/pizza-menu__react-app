@@ -13,6 +13,11 @@ A modern, responsive pizza restaurant menu application built with React. This pr
 
 <hr/>
 
+## 👀 Website Preview:
+<img src="uploaded-img-on-github-readme" alt="website preview - Demo - UI Mockup" width="400">
+
+<hr/>
+
 ## ✨ Key Features:
 
 - <b>Component-Based Architecture:</b> Modular design with separated, reusable components for Header, Menu, Pizza, Footer, and Order sections.
